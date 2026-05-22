@@ -9,7 +9,7 @@
 **`Full Stack Developer · Flutter · Cloud · AI`**
 
 <p>
-  <a href="https://github.com/praaatap"><img src="https://img.shields.io/badge/GitHub-praaatap-161b22?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117" /></a>
+  <a href="https://github.com/praaatap"><img src="https://img.shields.io/badge/pratapsisodiya-161b22?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://leetcode.com/u/pratapsingh2005"><img src="https://img.shields.io/badge/LeetCode-Top_0.08%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" /></a>
   <a href="mailto:pratap.singh.sisodiya.09@gmail.com"><img src="https://img.shields.io/badge/Gmail-pratap.singh-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
@@ -21,18 +21,18 @@
 
 ---
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=praaatap&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="52%" alt="activity graph"/>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=pratapsisodiya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="52%" alt="activity graph"/>
 
 ### 👨‍💻 About Me
 
-Full-stack developer from **Delhi, India** — I build scalable backends, real-time systems, and AI-powered products that ship.
+Full-stack developer from **India** — I build scalable backends, real-time systems, and AI-powered products that ship.
 
 - 🏆 **CodeChef Global Rank #48**
 - 🧠 **1,500+ DSA problems** · LeetCode **Top 0.08%**
 - ☁️ **Microsoft Azure Administrator (AZ-104)**
 - 🤖 Building with **LangChain · CrewAI · OpenAI**
 - 🚀 Open to **full-stack / backend internships**
-- 📍 Delhi, India
+- 📍 Rajasthan , India
 
 <br clear="right"/>
 
