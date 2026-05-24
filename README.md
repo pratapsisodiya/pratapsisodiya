@@ -128,14 +128,14 @@ Full-stack developer from **India** — I build scalable backends, real-time sys
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=praaatap&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=praaatap&show_icons=true&hide_border=true&theme=default&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=praaatap&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pratapsisodiya&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pratapsisodiya&show_icons=true&hide_border=true&theme=default&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratapsisodiya&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=praaatap&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapsisodiya&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=praaatap&layout=compact&hide_border=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praaatap&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapsisodiya&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 </picture>
 
 </div>
@@ -143,9 +143,9 @@ Full-stack developer from **India** — I build scalable backends, real-time sys
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=praaatap&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=praaatap&hide_border=true&theme=default"/>
-  <img src="https://streak-stats.demolab.com?user=praaatap&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pratapsisodiya&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pratapsisodiya&hide_border=true&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=pratapsisodiya&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
 </picture>
 
 </div>
